@@ -70,7 +70,9 @@ button {
   margin-top: 0.6rem;
   display: flex;
   flex-direction: column;
+  height: 100px;
   overflow: hidden;
+  overflow-y: auto;
 }
 
 .capitulo-item {
